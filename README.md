@@ -16,11 +16,13 @@ In Java, controllers are implemented as classes that handle user input events, o
 Entities
 Book
 • Attributes:-
+
 • bookName: Name of the book  
 • bookPrice: Price of the book  
 • authorName: Name of the author  
 
 • Methods:-
+
 • getBookName(): Returns the name of the book  
 • setBookName(String bookName): Sets the name of the book  
 • getBookPrice(): Returns the price of the book  
