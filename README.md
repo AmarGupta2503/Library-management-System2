@@ -47,6 +47,10 @@ Functionality:-
 • Retrieve book details
 
 Screen Shots:-
-To Add Book
+To Add Book:-
+
 ![image](https://github.com/AmarGupta2503/Library-management-System2/assets/162796574/ab95e0a5-3c11-4619-8f3a-0d3d02bfa3d8)
+
+To Remove Book:-
+![Uploading image.png…]()
 
