@@ -52,5 +52,13 @@ To Add Book:-
 ![image](https://github.com/AmarGupta2503/Library-management-System2/assets/162796574/ab95e0a5-3c11-4619-8f3a-0d3d02bfa3d8)
 
 To Remove Book:-
+![image](https://github.com/AmarGupta2503/Library-management-System2/assets/162796574/06c067c9-bbb8-4c43-aaaf-9a2cc321329e)
+
+To Fetch Book:-
+![image](https://github.com/AmarGupta2503/Library-management-System2/assets/162796574/06af2bac-647d-4bc2-8e95-7857da7cd8a9)
+
+To Update Book Record:-
 ![Uploading image.png…]()
+
+
 
