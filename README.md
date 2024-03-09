@@ -1,5 +1,5 @@
 # Library-management-System
-Certainly! A Library Management System (LMS) is a software designed to manage and automate the various tasks and activities of a library. It helps streamline library operations, improve efficiency, and provide better services to library users. Here are key components and features of a typical Library Management System:
+A Library Management System (LMS) is a software designed to manage and automate the various tasks and activities of a library. It helps streamline library operations, improve efficiency, and provide better services to library users. Here are key components and features of a typical Library Management System:
 • Model: The Model represents the data and business logic of the application. In this project, the Model includes two main entities: Book and Library. The Book entity represents a book with attributes such as name, price, and author name. The Library entity represents a library with attributes such as name, address, pincode, and a list of books.
 
 • View: The View is responsible for presenting the data to the user and receiving user input. In this project, the View would include the user interface components such as forms, tables, and buttons used to interact with the system.
