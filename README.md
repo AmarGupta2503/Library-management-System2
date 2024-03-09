@@ -16,13 +16,11 @@ In Java, controllers are implemented as classes that handle user input events, o
 Entities
 Book
 • Attributes:-
-
 • bookName: Name of the book  
 • bookPrice: Price of the book  
 • authorName: Name of the author  
 
 • Methods:-
-
 • getBookName(): Returns the name of the book  
 • setBookName(String bookName): Sets the name of the book  
 • getBookPrice(): Returns the price of the book  
@@ -32,7 +30,6 @@ Book
 • toString(): Returns a string representation of the book  
 
 Library
-
 • Attributes:-
 • libraryName: Name of the library    
 • libraryAddress: Address of the library    
@@ -71,9 +68,8 @@ To Fetch Book:-
 ![image](https://github.com/AmarGupta2503/Library-management-System2/assets/162796574/06af2bac-647d-4bc2-8e95-7857da7cd8a9)
 
 To Update Book Record:-
+![image](https://github.com/AmarGupta2503/Library-management-System2/assets/162796574/7e5873f3-8118-4fa0-a3dd-f98ed5a6f0f2)
 
-
-![Uploading image.png…]()
 
 
 
