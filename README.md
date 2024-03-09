@@ -1,10 +1,17 @@
 # Library-management-System
 A Library Management System (LMS) is a software designed to manage and automate the various tasks and activities of a library. It helps streamline library operations, improve efficiency, and provide better services to library users. Here are key components and features of a typical Library Management System:
-• Model: The Model represents the data and business logic of the application. In this project, the Model includes two main entities: Book and Library. The Book entity represents a book with attributes such as name, price, and author name. The Library entity represents a library with attributes such as name, address, pincode, and a list of books.
 
-• View: The View is responsible for presenting the data to the user and receiving user input. In this project, the View would include the user interface components such as forms, tables, and buttons used to interact with the system.
+• Model:
+The model represents the application's data and business logic. It is responsible for managing and manipulating the data, as well as responding to requests for information about the state of the application.
+In Java, the model typically consists of classes that represent entities, data structures, and business logic. It can also include database access code.
 
-• Controller: The Controller acts as an intermediary between the Model and the View. It processes user input from the View, interacts with the Model to perform actions such as adding, removing, updating, and deleting books, and updates the View to reflect the changes.
+• View:
+The view is responsible for presenting the data to the user and receiving user input. It displays information from the model and sends user actions back to the controller for further processing.
+In Java, the view is often implemented using UI components such as JavaFX views, Swing components, or JSP pages in web applications.
+
+• Controller:
+The controller acts as an intermediary between the model and the view. It receives user input from the view, processes it, and updates the model accordingly. It also receives notifications from the model about changes and updates the view to reflect those changes.
+In Java, controllers are implemented as classes that handle user input events, orchestrate interactions between the model and the view, and update the model and view accordingly.
 
 Entities
 Book
