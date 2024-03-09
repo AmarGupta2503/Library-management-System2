@@ -1,7 +1,7 @@
 # Library-management-System
 A Library Management System (LMS) is a software designed to manage and automate the various tasks and activities of a library. It helps streamline library operations, improve efficiency, and provide better services to library users. Here are key components and features of a typical Library Management System:
 
-# Model:
+### Model:
 The model represents the application's data and business logic. It is responsible for managing and manipulating the data, as well as responding to requests for information about the state of the application.
 In Java, the model typically consists of classes that represent entities, data structures, and business logic. It can also include database access code.
 
