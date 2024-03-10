@@ -48,8 +48,9 @@ In Java, controllers are implemented as classes that handle user input events, o
 
 #### Functionality:-
 • Add a book to the library
-• Update book details
-• Remove a book from the library
+</br>
+• Update book details </br>
+• Remove a book from the library </br>
 • Retrieve book details
 
 ### Screen Shots:-
