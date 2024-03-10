@@ -30,7 +30,7 @@ In Java, controllers are implemented as classes that handle user input events, o
 • toString(): Returns a string representation of the book  
 
 ### Library
-####• Attributes:-
+#### • Attributes:-
 • libraryName: Name of the library    
 • libraryAddress: Address of the library    
 • pincode: Pincode of the library location  
